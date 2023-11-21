@@ -1,4 +1,4 @@
-## Ressurces for the course Analyzing Ecological Networks
+## Resources for the course Analyzing Ecological Networks
 
 <!-- badges: start -->
 [![Quarto Render and Publish](https://github.com/rdatatoolbox/rdatatoolbox.github.io/actions/workflows/render-website.yaml/badge.svg)](https://github.com/econetoolbox/econetoolbox.github.io/actions/workflows/render-website.yaml)
