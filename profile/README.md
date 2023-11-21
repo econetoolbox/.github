@@ -5,8 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](https://choosealicense.com/licenses/cc-by-4.0/)
 <!-- badges: end -->
 
-
-![](https://github.com/econetoolbox/econetoolbox.github.io/images/banner-networks_150dpi.png)
+![](https://github.com/econetoolbox/econetoolbox.github.io/tree/main/images/banner-networks_150dpi.png)
 
 Resources of the [course](https://econetoolbox.github.io/) **_Analyzing Ecological networks_**
 co-organized by the
