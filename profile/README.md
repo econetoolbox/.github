@@ -6,9 +6,9 @@
 <!-- badges: end -->
 
 
-![](images/banner-networks_150dpi.png)
+![](https://github.com/econetoolbox/econetoolbox.github.io/images/banner-networks_150dpi.png)
 
-Resources of the [workshop](https://econetoolbox.github.io/) **_Analyzing Ecological networks_**
+Resources of the [course](https://econetoolbox.github.io/) **_Analyzing Ecological networks_**
 co-organized by the
 [FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/)
 and the
