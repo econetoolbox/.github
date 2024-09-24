@@ -1,4 +1,4 @@
-## Resources for the course Analyzing Ecological Networks
+## Resources to study the structure and dynamics of ecological networks
 
 <!-- badges: start -->
 [![Quarto Render and Publish](https://github.com/rdatatoolbox/rdatatoolbox.github.io/actions/workflows/render-website.yaml/badge.svg)](https://github.com/econetoolbox/econetoolbox.github.io/actions/workflows/render-website.yaml)
@@ -14,13 +14,14 @@ and the
 [ANR ECONET](https://cmatias.perso.math.cnrs.fr/ANR_EcoNet.html).
 
 
-### Citation
 
-> to do
 
 
 <!--
 
+### Citation
+
+> to do
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
